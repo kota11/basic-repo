@@ -1,3 +1,3 @@
 #basic
 
-this is the bsic file
+this is the basic file
